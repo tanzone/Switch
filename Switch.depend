@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1525981618 source:c:\users\tanzi\desktop\switch\_librerie\dialogmain_func.c
+	"..\\_Librerie\\Switch.h"
+
+1525981355 c:\users\tanzi\desktop\switch\\_librerie\\switch.h
+	<windows.h>
+	<windowsx.h>
+	<time.h>
+	<stdio.h>
+	"..\\_Resource\\resource.h"
+	".\\Utile.h"
+
+1525875933 c:\users\tanzi\desktop\switch\\_librerie\\\utile.h
+	<ctype.h>
+
+1525982119 source:c:\users\tanzi\desktop\switch\_librerie\operazioni.c
+	"..\\_Librerie\\Switch.h"
+
+1525982260 source:c:\users\tanzi\desktop\switch\_librerie\utile.c
+	"..\\_Librerie\\Switch.h"
+
+1525978369 source:c:\users\tanzi\desktop\switch\_resource\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1525623578 c:\users\tanzi\desktop\switch\_resource\resource.h
+
+1525380106 source:c:\users\tanzi\desktop\switch\main.c
+	".\\_Librerie\\Switch.h"
+
+1525981620 source:c:\users\tanzi\desktop\c+-\switch\_librerie\dialogmain_func.c
+	"..\\_Librerie\\Switch.h"
+
+1525981356 c:\users\tanzi\desktop\c+-\switch\\_librerie\\switch.h
+	<windows.h>
+	<windowsx.h>
+	<time.h>
+	<stdio.h>
+	"..\\_Resource\\resource.h"
+	".\\Utile.h"
+
+1525875934 c:\users\tanzi\desktop\c+-\switch\\_librerie\\\utile.h
+	<ctype.h>
+
+1525982120 source:c:\users\tanzi\desktop\c+-\switch\_librerie\operazioni.c
+	"..\\_Librerie\\Switch.h"
+
+1525982262 source:c:\users\tanzi\desktop\c+-\switch\_librerie\utile.c
+	"..\\_Librerie\\Switch.h"
+
+1525978370 source:c:\users\tanzi\desktop\c+-\switch\_resource\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1525623578 c:\users\tanzi\desktop\c+-\switch\_resource\resource.h
+
+1525380106 source:c:\users\tanzi\desktop\c+-\switch\main.c
+	".\\_Librerie\\Switch.h"
+
